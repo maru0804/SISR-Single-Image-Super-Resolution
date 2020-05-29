@@ -89,7 +89,7 @@ upsampling layerにUpsamling2Dを使用した
 
 ### DEMO
 
-![srgan pix demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+![srgan pix demo](https://user-images.githubusercontent.com/53184634/83300139-67195780-a232-11ea-9796-1cbece1092e5.png)
 ![srgan pix suiron](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
 
 ### Features
