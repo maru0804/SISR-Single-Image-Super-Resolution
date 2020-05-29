@@ -31,6 +31,8 @@ mnistのすべての数字を学習させたところうまく学習ができな
 
 ### DEMO
 
+![srgan up demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+
 ### Features
 
 SRGANを実装することができる
@@ -64,6 +66,7 @@ upsampling layerにUpsamling2Dを使用した
 ### Features
 
 SRGANを実装することができる
+
 120×120の画像を480×480の画像にする
 
 ### Requirement
@@ -90,12 +93,15 @@ upsampling layerにUpsamling2Dを使用した
 ### DEMO
 
 ![srgan pix demo](https://user-images.githubusercontent.com/53184634/83300139-67195780-a232-11ea-9796-1cbece1092e5.png)
-![srgan pix suiron](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+
+![srgan pix suiron](https://user-images.githubusercontent.com/53184634/83300219-95973280-a232-11ea-8f1a-1e4c6c22cada.png)
 
 ### Features
 
 SRGANを実装することができる
+
 120×120の画像を480×480の画像にする
+
 srganの論文で使用されていたpixel shufflerを組み込む
 
 ### Requirement
