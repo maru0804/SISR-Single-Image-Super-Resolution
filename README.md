@@ -1,8 +1,8 @@
-# 単眼超解像(SISR:Single Image Super Resolution)
+# SISR:Single Image Super Resolution
 
 単眼超解像の手法のSRCNN,SRGANを実装しました。
 
-## srcnn_mnist.ipynb
+# srcnn_mnist.ipynb
 
 ### DEMO
 
@@ -27,7 +27,7 @@ Google Colabratoryで実行することができる
 
 mnistのすべての数字を学習させたところうまく学習ができなかった
 
-## srgan_Upsampling.ipynb
+# srgan_Upsampling.ipynb
 
 ### DEMO
 
@@ -57,7 +57,7 @@ google driveに画像データフォルダを作成しpathを通して実行し�
 
 upsampling layerにUpsamling2Dを使用した
 
-## srgan_moza.ipynb
+# srgan_moza.ipynb
 
 ### DEMO
 
@@ -90,7 +90,7 @@ upsampling layerにUpsamling2Dを使用した
 
 学習する際、読み込む画像に圧縮モザイクをかけた。
 
-## srgan_pixelshuffl.ipynb
+# srgan_pixelshuffl.ipynb
 
 ### DEMO
 
