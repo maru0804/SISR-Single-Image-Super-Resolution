@@ -6,7 +6,7 @@
 
 ### DEMO
 
-[srcnn demo](https://user-images.githubusercontent.com/53184634/83299303-e312a000-a230-11ea-97a9-ade5663f9b19.png)
+![srcnn demo](https://user-images.githubusercontent.com/53184634/83299303-e312a000-a230-11ea-97a9-ade5663f9b19.png)
 
 ### Features
 
