@@ -31,7 +31,9 @@ mnistのすべての数字を学習させたところうまく学習ができな
 
 ### DEMO
 
-![srgan up demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+様々な超解像手法と比較した
+
+![srgan up demo](https://user-images.githubusercontent.com/53184634/83300554-2ff77600-a233-11ea-81f1-b75b190ff4c0.png)
 
 ### Features
 
