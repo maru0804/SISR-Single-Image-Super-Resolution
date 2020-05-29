@@ -59,7 +59,7 @@ upsampling layerにUpsamling2Dを使用した
 
 ![srgan up demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
 
-![srgan up suiron](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+![srgan up suiron](https://user-images.githubusercontent.com/53184634/83300008-2c172400-a232-11ea-98ad-f6c93cf27057.png)
 
 ### Features
 
