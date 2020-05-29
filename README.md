@@ -57,6 +57,10 @@ upsampling layerにUpsamling2Dを使用した
 
 ### DEMO
 
+![srgan up demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+
+![srgan up suiron](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+
 ### Features
 
 SRGANを実装することができる
@@ -84,6 +88,9 @@ upsampling layerにUpsamling2Dを使用した
 ## srgan_pixelshuffl.ipynb
 
 ### DEMO
+
+![srgan pix demo](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
+![srgan pix suiron](https://user-images.githubusercontent.com/53184634/83299662-92e80d80-a231-11ea-8b96-b9e5ad95d951.png)
 
 ### Features
 
