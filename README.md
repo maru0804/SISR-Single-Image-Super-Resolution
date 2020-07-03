@@ -1,4 +1,4 @@
-# SISR:Single Image Super Resolution
+# [SISR]Single Image Super Resolution
 
 単眼超解像の手法のSRCNN,SRGANを実装しました。
 
